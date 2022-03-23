@@ -9,3 +9,10 @@ I will credit everyone unlike Icy!
 Currently this bot is in ENGLISH, I will soon make it a option for different languages. 
 
 I can make a spanish wordlist, pull requests are always accepted. 
+
+# Planned Features
+
+| ------------------- | --------- |
+| Curse Word Database | Genius    |
+| ------------------- | --------- |
+| Will be making soon | Level 100 |
