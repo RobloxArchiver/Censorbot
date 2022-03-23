@@ -12,7 +12,9 @@ I can make a spanish wordlist, pull requests are always accepted.
 
 # Planned Features
 
-| ------------------- | --------- |
 | Curse Word Database | Genius    |
 | ------------------- | --------- |
-| Will be making soon | Level 100 |
+| Will be making soon | <<<<<<<<< |
+| 10/10 Idea honestly | <<<<<<<<< |
+| Will be a website   | <<<<<<<<< |
+| Or another bot      | <<<<<<<<< |
