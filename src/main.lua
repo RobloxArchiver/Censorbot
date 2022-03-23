@@ -9,7 +9,7 @@ local Wordlist = require("settings/wordlist.lua").Wordlist
 --#region // AddWord(word)
 function AddWord(word)
 	Client:on("messageCreate", function(message)
-		if message.content == word then
+		if message.content == string.find(message.content, word) then
 			message.channel:send("SHUT UP!")
 		end
 	end)
