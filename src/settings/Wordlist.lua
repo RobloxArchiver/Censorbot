@@ -5,4 +5,7 @@ local Wordlist = {
     "dick"
 }
 
---// Credits: Years of being alive + Minecraft: Bedrock Blacklist file (stolen from my own copy of MCBE)
+--[[ 
+    Credits: Years of being alive
+    Minecraft: Bedrock Blacklist file (stolen from my own copy of MCBE)
+]]
