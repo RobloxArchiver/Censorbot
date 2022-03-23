@@ -23,11 +23,11 @@ Client:on("ready", function()
 end)
 --#endregion
 
-while wait(Settings.Timer) do
-    for i,v in pairs(Wordlist) do
-        debug("Added Index: " .. i .. "\n Word: " .. v)
-        AddWord(v)
-    end
+--#region // Add Words to List
+for i,v in pairs(Wordlist) do
+    debug("Added Index: " .. i .. "\n Word: " .. v)
+    AddWord(v)
 end
+--#endregion
 
 Client:run(Settings.Token)
